@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🙋🏻‍♀️ Introducing Myself  
 
-<!--
-**zenfmammad/zenfmammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ![Zenfira Mammadzada Banner](https://github.com/user-attachments/assets/084a1c66-2bcc-48af-a6fb-ca2c3a367de9)
 
-Here are some ideas to get you started:
+Hi👋🏽, I'm Zenfira. Data Analyst with over 2️⃣ years of experience in data analysis and reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tools  
+- **Excel**  
+- **Tableau**  
+- **SQL**  
+- **Python**
+
+### 📚 Projects  
+Welcome to my portfolio, where I showcase my projects.  
+
+### 👋🏻 Connect with Me  
+[LinkedIn](your-linkedin-url) | [GitHub](your-github-url) | [Email](mailto:your-email)  
