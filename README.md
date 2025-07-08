@@ -1,6 +1,7 @@
 # 🙋🏻‍♀️ Introducing Myself  
 
- ![Zenfira Mammadzada Banner](https://github.com/user-attachments/assets/084a1c66-2bcc-48af-a6fb-ca2c3a367de9)
+![Black Abstract We Are Hiring LinkedIn Banner](https://github.com/user-attachments/assets/58fbf4da-52f7-4f34-9095-c4c8dc6c2d2d)
+
 
 Hi👋🏽, I'm Zenfira. Data Analyst with over 2️⃣ years of experience in data analysis and reporting.
 
