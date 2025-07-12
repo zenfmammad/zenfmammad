@@ -15,4 +15,4 @@ Hi👋🏽, I'm Zenfira. Data Analyst with over 2️⃣ years of experience in d
 Welcome to my portfolio, where I showcase my projects.  
 
 ### 👋🏻 Connect with Me  
-[LinkedIn](your-linkedin-url) | [GitHub](your-github-url) | [Email](mailto:your-email)  
+[LinkedIn](https://www.linkedin.com/in/zenfiramammadzada/) | [GitHub](https://github.com/zenfmammad) | [Email](mailto:mammadzadazenfira@gmail.com)
